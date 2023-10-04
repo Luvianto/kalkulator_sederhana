@@ -25,6 +25,7 @@ class Operasi {
 // note untuk ke depan :
 // Semua fungsi dibawah mungkin bisa dijadikan method class Operasi,
 // tapi sedikit malas karena sudah terlanjur
+// Luvi ganteng -Ticelly
 
 void aritmatika(Operasi operasi) {
   stdout.write('Hasil : ');
